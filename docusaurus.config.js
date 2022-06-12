@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'DoTenX',
   tagline: 'Automate anything for yourself or others',
-  url: 'https://dotenx.com',
+  url: 'https://docs.dotenx.com',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
